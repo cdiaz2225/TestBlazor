@@ -1,2 +1,2 @@
 # usuariosblazor
-Primer Repositorio para demo Blazor
+Repositorio para demo Blazor
